@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonhk
 - 👀 I’m interested in writing, design, and art
-- ⚽ In my free time I enjoy spending time with friends, playing soccer and tennis
+- ⚽ In my free time I enjoy spending time with friends, playing soccer, and tennis
 - 🌱 I’m currently learning Processing languages
 - 💞️ I’m looking to collaborate on software and web projects
 - 📫 How to reach me: you can message me through GitHub
